@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Abhishek%20Sutar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20AI%20%26%20IoT%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Abhishek%20Sutar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20AI%20and%20IoT%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+with+AI+%26+IoT+%F0%9F%A4%96;I+love+turning+ideas+into+code+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+with+AI+and+IoT+%F0%9F%A4%96;I+love+turning+ideas+into+code+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
